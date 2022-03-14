@@ -1,4 +1,4 @@
-# tic-toc-toe
+# tic-tac-toe
 
 ## Project setup
 ```
