@@ -23,10 +23,10 @@ jobs:
         node-version: 13.x
     
     - name: Install NPM packages
-      uses: npm ci
+      run: npm ci
 
     - name: Build Project
-      uses: npm run build
+      run: npm run build
 
     - name: Upload production-ready build file
       uses: actions/upload-artifact@v2
