@@ -1,0 +1,23 @@
+.message {
+  width: 100%;
+  z-index: 200;
+  border-radius: 2px;
+  text-align: center;
+  justify-content: center;
+  color: #fff;
+  min-height: 50px;
+  padding-top:25px;
+  font-size:20px;
+}
+
+.bg-danger {
+  background-color: #e43232;
+}
+
+.bg-success {
+  background-color: rgb(68, 197, 90);
+}
+
+.bg-info {
+    background-color: rgb(138, 131, 71);
+}

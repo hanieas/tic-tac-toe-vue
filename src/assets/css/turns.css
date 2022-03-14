@@ -1,0 +1,16 @@
+.scores {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.scores span {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-right: 5px;
+  border-radius: 2px;
+}
+
+.scores .active {
+  background-color: rgb(68, 197, 90);
+  color: white;
+}
